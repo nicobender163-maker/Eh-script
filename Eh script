@@ -45,7 +45,7 @@ local Window = Rayfield:CreateWindow({
         FileName = "Key",
         SaveKey = true,
         GrabKeyFromSite = true,
-        Key = {""}
+        Key = {"Script/Vault hub"}
     },
     ConfiglurationSaving = {
         Enabled = true,
